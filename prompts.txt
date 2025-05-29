@@ -1,0 +1,28 @@
+1. Prompt usado:
+
+"con programación concurrente tengo que resolver el siguiente problema; con un listado de URLs (links a páginas Web), se necesita visitar cada una de ellas para encontrar y contar cuantas otras URLs internas tiene la página Web, para finalmente almacenar en un nuevo archivo los resultados obtenidos. En el nuevo archivo se necesita almacenar al URL y la cantidad de URLs internas que esta tiene."
+
+
+2. Error al compilar (falta de la librería jsoup):
+
+"C:\Users\LENOVO\Desktop\proava\evaluacion\src\main\java\org\example\URLProcessor.java:3:17 java: package org.jsoup does not exist"
+
+
+3. Prompt para verificar en qué parte del código se usan hilos:
+
+"¿En qué parte del código se usa hilos?"
+
+
+4. Prompt sobre errores de ejecución:
+
+"Tengo esto en error, ¿se ejecutó bien o qué ocurrió?"
+
+
+5. Prompt para explicar el error SEVERE de CookieManager:
+
+"Explícame más detallado el error SEVERE: Invalid cookie."
+
+
+6. Prompt para saber qué clase de hilo se usó y cómo funciona:
+
+"¿Qué clase de hilo se usó y cómo funciona?"
